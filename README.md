@@ -8,8 +8,6 @@ Transaction can be initiated independantly from the time new token becomes avail
 
 You can run it much earlier and be sure you will buy it at first few seconds after sell start
 
-:warning:
-Please choose coins carefully, remember that a big quantity of those are scam!
 
 
 ## How to use:
@@ -29,41 +27,13 @@ Please choose coins carefully, remember that a big quantity of those are scam!
 * `YOUR_ACCOUNT_PRIVATE_KEY`
 * `SLIPPAGE`
 
-:white_check_mark: open terminal/bash/shell at your bot directory and run `node start.js` command.
+:white_check_mark: open terminal/bash/shell at your bot directory and run `node supersniper.js` command.
 If you have some problems, try to rerun it
 
 
-## Warnings:
-:warning:
-PLEASE DO NOT SHARE YOU PRIVATE KEY WITH ANYBODY, YOU CAN LOSE ALL YOUR CREDITS FROM YOUR ACCOUNT
-:warning:
-
-:warning:
-also, remember 80% of new shitcoins are SCAM and make a responsible decision whether to buy coin or not
-:warning:
 
 
 ## Most asked questions:
 
 Please for more details read the "Guidebook.pdf"
 
-
-## Gratitudes for the donations:
-estella - 0.02 ETH
-
-miiiilktea421 - 0.01 BNB
-
-leanna613 - 0.02 BNB
-
-
-## Feedback:
-I would be grateful for your feedback and bot improvements proposals, you can contact me by email:
-`cryptocandy421@gmail.com`
-
-
-## Your thanks:
-BOT is free-to-use, but you are welcome to appreciate my work :relaxed:
-
-ETH - 0x0e28B965b3DdeE01676662cbE0B9BEfc04e6d223
-
-BNB - 0x0e28B965b3DdeE01676662cbE0B9BEfc04e6d223
