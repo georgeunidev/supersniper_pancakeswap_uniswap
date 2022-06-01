@@ -27,7 +27,7 @@ You can run it much earlier and be sure you will buy it at first few seconds aft
 * `YOUR_ACCOUNT_PRIVATE_KEY`
 * `SLIPPAGE`
 
-:white_check_mark: open terminal/bash/shell at your bot directory and run `node supersniper.js` command.
+:white_check_mark: open terminal/bash/shell at your bot directory and run `npm install` to install the dependencies and then `node supersniper.js` command to start the bot.
 If you have some problems, try to rerun it
 
 
