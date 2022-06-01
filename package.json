@@ -1,0 +1,35 @@
+{
+    "name": "pancakeswap_uniswap_sniperbot",
+    "version": "1.0.0",
+    "description": "This is a snipe bot for Pancakeswap and Uniswap platforms",
+    "main": "node supersniper.js",
+    "scripts": {
+        "start": "node supersniper.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "snipe-bot",
+        "sniper",
+        "bot",
+        "crypto",
+        "Pancake",
+        "Uniswap",
+        "buy",
+        "trade"
+    ],
+    "author": "simples",
+    "license": "ISC",
+    "dependencies": {
+        "async-retry": "^1.3.1",
+        "bignumber": "^1.1.0",
+        "@ethereumjs/common": "^2.6.0",
+        "chalk": "^4.1.2",
+        "dotenv": "^10.0.0",
+        "ethereumjs-common": "^1.5.2",
+        "ethereumjs-tx": "^2.1.2",
+        "ethers": "^5.5.1",
+        "inquirer": "^8.2.0",
+        "pancake_validator_basic": "^1.0.0",
+        "web3": "^1.6.1"
+    }
+}
