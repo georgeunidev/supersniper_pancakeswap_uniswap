@@ -1,4 +1,4 @@
-<img src="./image/pancakeswap.png">
+<img src="pancakeswap.png">
 
 ## About bot:
 
